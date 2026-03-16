@@ -1,5 +1,7 @@
 # 🦆 Duck Pond
 
+interactive duck pond. add a duck, feed the ducks, have them migrate.
+
 An interactive watercolor duck pond built with vanilla HTML5 Canvas — no dependencies, no build step.
 
 ## Features
