@@ -4,6 +4,8 @@ interactive duck pond. add a duck, feed the ducks, have them migrate.
 
 An interactive watercolor duck pond built with vanilla HTML5 Canvas — no dependencies, no build step.
 
+Try it Here: [https://aaltheaa.github.io/duckpond/](https://aaltheaa.github.io/duckpond/)
+
 ## Features
 
 - **Click the pond** to add a duck (up to 18)
@@ -13,10 +15,6 @@ An interactive watercolor duck pond built with vanilla HTML5 Canvas — no depen
 - Real-time **wave physics** simulation
 - Duck **wake ripples** that follow movement
 - Ducks avoid each other with **separation steering**
-
-## Live demo
-
-Hosted on GitHub Pages: `(https://aaltheaa.github.io/duckpond/)`
 
 ## Running locally
 
