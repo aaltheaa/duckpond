@@ -16,7 +16,7 @@ An interactive watercolor duck pond built with vanilla HTML5 Canvas — no depen
 
 ## Live demo
 
-Hosted on GitHub Pages: `https://<your-username>.github.io/duck-pond`
+Hosted on GitHub Pages: `[https://aaltheaa.github.io/duckpond/](https://aaltheaa.github.io/duckpond/)`
 
 ## Running locally
 
